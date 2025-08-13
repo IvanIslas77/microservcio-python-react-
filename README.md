@@ -307,8 +307,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 <div align="center">
 
-**⭐ ¡No olvides darle una estrella si te gustó el proyecto! ⭐**
-
 **🚀 Hecho con ❤️ y mucho ☕**
 
 </div>
